@@ -1,7 +1,5 @@
 Flask
 google-generativeai
 python-dotenv
-pydub
-wave
 requests
 gunicorn
